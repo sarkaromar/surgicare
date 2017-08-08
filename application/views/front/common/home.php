@@ -81,7 +81,7 @@
         <div class="row pt-xl">
             <div class="col-md-12">
                 <h2 class="font-weight-semibold mb-xs">Departments</h2>
-                <p class="lead font-weight-normal">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                <p class="lead font-weight-normal">SurgiCare Hospital offers all-inclusive state-of-the-art medical & healthcare services with up-to-date facilities.</p>
             </div>
         </div>
         <div class="row mt-lg">
@@ -135,102 +135,6 @@
                         </a>
                     </div>
                 <?php endforeach; ?>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="section">
-    <div class="container">
-        <div class="row mt-md">
-            <div class="col-md-12">
-                <h2 class="font-weight-semibold m-none">Resources</h2>
-                <p class="lead font-weight-normal">List of our features resources</p>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-sm-4 col-md-4">
-                <a href="<?= site_url('home/resource') ?>" class="text-decoration-none">
-                    <span class="thumb-info thumb-info-side-image thumb-info-side-image-custom thumb-info-no-zoom thumb-info-no-zoom thumb-info-side-image-custom-highlight">
-                        <span class="thumb-info-side-image-wrapper">
-                            <img alt="" class="img-responsive" src="<?= base_url() ?>assets/img/gallery/gallery-2.jpg">
-                        </span>
-                        <span class="thumb-info-caption">
-                            <span class="thumb-info-caption-text p-xl">
-                                <h4 class="font-weight-semibold mb-xs">Prepare for visit</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur hend...</p>
-                            </span>
-                        </span>
-                    </span>
-                </a>
-            </div>
-            <div class="col-sm-4 col-md-4">
-                <a href="<?= site_url('home/resource') ?>" class="text-decoration-none">
-                    <span class="thumb-info thumb-info-side-image thumb-info-side-image-custom thumb-info-no-zoom thumb-info-no-zoom thumb-info-side-image-custom-highlight">
-                        <span class="thumb-info-side-image-wrapper">
-                            <img alt="" class="img-responsive" src="<?= base_url() ?>assets/img/gallery/gallery-3.jpg">
-                        </span>
-                        <span class="thumb-info-caption">
-                            <span class="thumb-info-caption-text p-xl">
-                                <h4 class="font-weight-semibold mb-xs">Surgery proccess</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur hend...</p>
-                            </span>
-                        </span>
-                    </span>
-                </a>
-            </div>
-            <div class="col-sm-4 col-md-4">
-                <a href="<?= site_url('home/resource') ?>" class="text-decoration-none">
-                    <span class="thumb-info thumb-info-side-image thumb-info-side-image-custom thumb-info-no-zoom thumb-info-no-zoom thumb-info-side-image-custom-highlight">
-                        <span class="thumb-info-side-image-wrapper">
-                            <img alt="" class="img-responsive" src="<?= base_url() ?>assets/img/gallery/gallery-4.jpg">
-                        </span>
-                        <span class="thumb-info-caption">
-                            <span class="thumb-info-caption-text p-xl">
-                                <h4 class="font-weight-semibold mb-xs">Patients</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur hend...</p>
-                            </span>
-                        </span>
-                    </span>
-                </a>
-            </div>
-        </div>
-        <div class="row pb-xlg">
-            <div class="col-md-12 center">
-                <a href="<?= site_url('home/resource') ?>" class="btn btn-borders btn-quaternary custom-button text-uppercase font-weight-bold">view more</a>
-            </div>
-        </div>
-    </div>
-</section>
-<section>
-    <div class="container">
-        <div class="row mt-md">
-            <div class="col-md-12">
-                <h2 class="font-weight-semibold m-none">Our Partners</h2>
-                <p class="lead font-weight-normal">Currently We Working with this company</p>
-            </div>
-        </div>
-        <div class="row mb-xlg pb-xlg">
-            <div class="content-grid pl-md pr-md">
-                <div class="content-grid-row">
-                    <div class="content-grid-item col-sm-4 col-md-2 center">
-                        <img src="<?= base_url() ?>assets/img/insurance/insurance-logo-1.png" alt class="img-responsive" />
-                    </div>
-                    <div class="content-grid-item col-sm-4 col-md-2 center">
-                        <img src="<?= base_url() ?>assets/img/insurance/insurance-logo-2.png" alt class="img-responsive" />
-                    </div>
-                    <div class="content-grid-item col-sm-4 col-md-2 center">
-                        <img src="<?= base_url() ?>assets/img/insurance/insurance-logo-3.png" alt class="img-responsive" />
-                    </div>
-                    <div class="content-grid-item col-sm-4 col-md-2 center">
-                        <img src="<?= base_url() ?>assets/img/insurance/insurance-logo-4.png" alt class="img-responsive" />
-                    </div>
-                    <div class="content-grid-item col-sm-4 col-md-2 center">
-                        <img src="<?= base_url() ?>assets/img/insurance/insurance-logo-5.png" alt class="img-responsive" />
-                    </div>
-                    <div class="content-grid-item col-sm-4 col-md-2 center">
-                        <img src="<?= base_url() ?>assets/img/insurance/insurance-logo-6.png" alt class="img-responsive" />
-                    </div>
-                </div>
             </div>
         </div>
     </div>

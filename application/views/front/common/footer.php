@@ -57,7 +57,7 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12 center m-none">
-                                <p><?= $this->settings->info->copyright ?></p>
+                                <p><?= $this->settings->info->copyright ?> | Developed by <a target="_blank" href="http://www.cloudnextbd.com/">CloudNext Gen Ltd.</a></p>
                             </div>
                         </div>
                     </div>

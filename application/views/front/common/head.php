@@ -64,7 +64,7 @@
                                         <span class="ws-nowrap"><i class="icon-location-pin icons"></i><?=$this->settings->info->add?></span>
                                     </li>
                                     <li class="hidden-xs">
-                                        <span class="ws-nowrap"><i class="icon-envelope-open icons"></i> <a class="text-decoration-none" href="<?=$this->settings->info->mail1?>"><?=$this->settings->info->mail1?></a></span>
+                                        <span class="ws-nowrap"><i class="icon-envelope-open icons"></i> <a class="text-decoration-none" href="#"><?=$this->settings->info->mail1?></a></span>
                                     </li>
                                     <li>
                                         <span class="ws-nowrap"><i class="icon-call-out icons"></i></i> <?=$this->settings->info->phn1?></span>

@@ -21,8 +21,7 @@
                 <div class="feature-box-info">
                     <h4 class="mb-sm">Address</h4>
                     <p class="font-size-lg">
-                        123 Porto Blvd, Suite 100<br>
-                        New York, NY
+                       Surgicare Clinic & Diagnostic Center, Pirojpur Sadar, Pirojpur.
                     </p>
                 </div>
             </div>
@@ -35,8 +34,7 @@
                 <div class="feature-box-info">
                     <h4 class="mb-sm">Phone</h4>
                     <p class="font-size-lg">
-                        123-456-7890 <br>
-                        123-456-7891
+                       +880 1713 927837
                     </p>
                 </div>
             </div>
@@ -49,8 +47,8 @@
                 <div class="feature-box-info">
                     <h4 class="mb-sm">Email</h4>
                     <p class="font-size-lg">
-                        <a href="mailto:mail@example.com" class="text-decoration-none">mail@example.com</a><br>
-                        <a href="mailto:mail2@example.com" class="text-decoration-none">mail2@example.com</a>
+                        <a href="mailto:mail@example.com" class="text-decoration-none">help@surgicarebd.com</a><br>
+                        <a href="mailto:mail2@example.com" class="text-decoration-none">info@surgicarebd.com</a>
                     </p>
                 </div>
             </div>
@@ -59,7 +57,7 @@
     <hr class="solid">
     <div class="row pt-lg mb-lg pb-xl">
         <div class="col-md-6">
-            <div id="googlemaps" class="google-map m-none mb-xl"></div>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14736.717025387694!2d89.97112866731024!3d22.572397985182853!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a00005f897de40f%3A0x3baddcf917b139db!2sSurgicare+Clinic+%26+Diagnostic+Center!5e0!3m2!1sen!2s!4v1502189872649" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
         </div>
         <div class="col-md-6">
             <h4 class="font-weight-semibold mb-xlg">Send a Message to Us</h4>
