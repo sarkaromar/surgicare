@@ -1,7 +1,7 @@
 <section class="section-custom-medical">
     <div class="container">
         <div class="row medical-schedules">
-            <div class="col-lg-3 box-one background-color-primary appear-animation" data-appear-animation="fadeInLeft" data-appear-animation-delay="0">
+            <div class="col-lg-3 box-one background-color-primary">
                 <div class="feature-box feature-box-style-2 p-lg">
                     <div class="feature-box-icon">
                         <img src="<?= base_url() ?>assets/img/icons/medical-icon-heart.png" alt class="img-responsive pt-xs" />
@@ -11,7 +11,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 box-two background-color-tertiary appear-animation" data-appear-animation="fadeInLeft" data-appear-animation-delay="600">
+            <div class="col-lg-3 box-two background-color-tertiary ">
                 <h5 class="m-none">
                     <a href="<?= base_url() ?>" title="">
                         Doctors Timetable
@@ -19,7 +19,7 @@
                     </a>
                 </h5>
             </div>
-            <div class="col-lg-3 box-three background-color-primary appear-animation" data-appear-animation="fadeInLeft" data-appear-animation-delay="1200">
+            <div class="col-lg-3 box-three background-color-primary ">
                 <div class="expanded-info p-xlg background-color-primary">
                     <div class="info custom-info">
                         <span>Sun-Thu</span>
@@ -39,7 +39,7 @@
                     <i class="icon-arrow-right-circle icons"></i>
                 </h5>
             </div>
-            <div class="col-lg-3 box-four background-color-secondary p-none appear-animation" data-appear-animation="fadeInLeft" data-appear-animation-delay="1800">
+            <div class="col-lg-3 box-four background-color-secondary p-none ">
                 <a href="<?= base_url() ?>" class="text-decoration-none">
                     <div class="feature-box feature-box-style-2 m-none">
                         <div class="feature-box-icon">

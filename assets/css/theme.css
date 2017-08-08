@@ -61,8 +61,8 @@ li {
 }
 
 #header .header-top {
-	background-color: #f4f4f4;
-	border-bottom: 1px solid #ededed;
+	background-color: #018fe2;
+	border-bottom: 1px solid #39aadc;
 	margin-top: -13px;
 	padding: 8px 0;
 	position: relative;
@@ -128,7 +128,7 @@ li {
 
 #header .header-top.header-top-style-3 {
 	margin-top: -16px;
-	margin-bottom: 10px;
+	margin-bottom: 0px;
 }
 
 #header .header-top.header-top-style-4 {

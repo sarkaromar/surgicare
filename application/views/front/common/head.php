@@ -11,8 +11,7 @@
         <title><?=$title?> | domain</title> 
 
         <!-- Favicon -->
-        <link rel="shortcut icon" href="<?=base_url()?>assets/img/favicon.ico" type="image/x-icon" />
-        <link rel="apple-touch-icon" href="<?=base_url()?>assets/img/apple-touch-icon.png">
+        <link rel="shortcut icon" href="<?=base_url()?>assets/img/logo/fv.png" type="image/x-icon" />
 
         <!-- Mobile Metas -->
         <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -79,7 +78,7 @@
                             <div class="header-column">
                                 <div class="header-logo">
                                     <a href="<?=base_url()?>">
-                                        <img alt="Porto" width="143" height="40" src="<?=base_url()?>assets/img/logo/logo-medical.png">
+                                        <img alt="Surgicare" width="200" src="<?=base_url()?>assets/img/logo/logo4.png">
                                     </a>
                                 </div>
                             </div>

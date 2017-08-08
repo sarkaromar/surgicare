@@ -1,11 +1,11 @@
 #header.header-narrow .header-body {
-  padding-bottom: 20px;
+  padding-bottom: 0px;
 }
 #header.header-narrow .header-nav-main {
   margin: 0;
 }
 #header.header-narrow .header-top.header-top-style-3 {
-  margin-bottom: 20px;
+  margin-bottom: 0px;
 }
 
 .box-shadow-custom {
@@ -22,14 +22,14 @@
   background: #dbe6ef;
 }
 .header-top-custom .header-nav-top .nav > li > span, .header-top-custom .header-nav-top .nav > li a {
-  color: #8ea0ae !important;
+  color: #ffffff !important;
 }
 .header-top-custom .header-nav-top .nav > li span .icons {
   color: #4c4c4c !important;
 }
 .header-top-custom .header-nav-top .nav > li:nth-child(2) span {
-  border-left: 1px solid #d1dee9;
-  border-right: 1px solid #d1dee9;
+  border-left: 1px solid #39aadc;
+  border-right: 1px solid #39aadc;
 }
 
 .rev_slider .slotholder:after {
